@@ -6,7 +6,7 @@
   
   ✨ ────────────────────────────────────── ✨
   
-  <!-- GIF Pixel Art Roxo Coisinha Fofa -->
+  <!-- GIF Oficial do Giphy aceito pelo GitHub -->
   <img src="https://giphy.com" width="120" />
 
 </div>
@@ -18,12 +18,7 @@
 
 ### ⚙️ Tecnologias & Ferramentas
 <div align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 </div>
 
 <br />
