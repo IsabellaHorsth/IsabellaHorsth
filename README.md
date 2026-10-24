@@ -1,13 +1,10 @@
 <div align="center">
   
-  # 💜 Bem-vindo(a) ao meu cantinho! 💜
+  # 💜 Bem-vindo(a)! 💜
   
   ( ˶ˆ 📜 ˆ˵ ) 👋 Olá, eu sou a Isabella Horsth!
   
   ✨ ────────────────────────────────────── ✨
-  
-  <!-- GIF Oficial do Giphy aceito pelo GitHub -->
-  <img src="https://giphy.com" width="120" />
 
 </div>
 
@@ -17,17 +14,13 @@
 - 🦄 **Estilo:** Adoro projetos organizados, limpos e com uma estética bonita!
 
 ### ⚙️ Tecnologias & Ferramentas
-<div align="left">
-  <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-</div>
+- 🟣 **HTML5** & **CSS3** (Criação e Estilização Web)
+- 🟪 **JavaScript** (Programação Web)
+- 🔮 **Java** (Desenvolvimento de Sistemas)
+- 🧬 **Electron** (Aplicativos Desktop)
+- 🛢️ **MySQL** (Banco de Dados)
 
 <br />
-
-### 📊 Estatísticas em Roxo
-<div align="center">
-  <img height="160" src="https://vercel.app" />
-  <img height="160" src="https://vercel.app" />
-</div>
 
 ✨ ────────────────────────────────────── ✨
 
