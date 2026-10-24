@@ -9,7 +9,7 @@
 </div>
 
 ### 🔮 Sobre Mim
-- 🏫 **Estudante:** Atualmente cursando Desenvolvimento de Sistemas em uma escola técnica.
+- 🏫 **Estudante:** Atualmente cursando Desenvolvimento de Sistemas na Escola Técnica de Limeira(COTIL- UNICAMP).
 - 💻 **Foco:** Aprendendo a criar sistemas e desvendando o mundo da programação.
 - 🦄 **Estilo:** Adoro projetos organizados, limpos e com uma estética bonita!
 
